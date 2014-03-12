@@ -1,0 +1,5 @@
+name: Fuzzy Bearings
+markdown: redcarpet
+pygments: true
+exclude: [run.sh *.bak]
+permalink: none

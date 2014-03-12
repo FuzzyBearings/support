@@ -1,4 +1,4 @@
-name: Fuzzy Bearings
+name: Fuzzy Bearings / Support
 markdown: redcarpet
 pygments: true
 exclude: [run.sh *.bak]
